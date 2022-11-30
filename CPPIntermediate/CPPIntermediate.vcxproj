@@ -129,13 +129,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Temporary\temporary1.cpp" />
-    <ClCompile Include="Temporary\temporary2.cpp" />
-    <ClCompile Include="Temporary\temporary_arg1.cpp" />
-    <ClCompile Include="Temporary\temporary_arg2.cpp" />
-    <ClCompile Include="Temporary\temporary_casting.cpp" />
-    <ClCompile Include="Temporary\temporary_return1.cpp" />
-    <ClCompile Include="Temporary\temporary_return2.cpp" />
+    <ClCompile Include="Section01\Conversion\conversion1.cpp" />
+    <ClCompile Include="Section01\Conversion\conversion2.cpp" />
+    <ClCompile Include="Section01\Conversion\conversion_ex1.cpp" />
+    <ClCompile Include="Section01\Conversion\conversion_ex2.cpp" />
+    <ClCompile Include="Section01\Conversion\explicit1.cpp" />
+    <ClCompile Include="Section01\Conversion\explicit2.cpp" />
+    <ClCompile Include="Section01\Conversion\explicit3.cpp" />
+    <ClCompile Include="Section01\Temporary\temporary1.cpp" />
+    <ClCompile Include="Section01\Temporary\temporary2.cpp" />
+    <ClCompile Include="Section01\Temporary\temporary_arg1.cpp" />
+    <ClCompile Include="Section01\Temporary\temporary_arg2.cpp" />
+    <ClCompile Include="Section01\Temporary\temporary_casting.cpp" />
+    <ClCompile Include="Section01\Temporary\temporary_return1.cpp" />
+    <ClCompile Include="Section01\Temporary\temporary_return2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

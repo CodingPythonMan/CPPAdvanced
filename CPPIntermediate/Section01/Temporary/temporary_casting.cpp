@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 
 struct Base
 {
@@ -26,4 +26,4 @@ int main()
 
 	static_cast<Base&>(d).value = 100;
 	//static_cast<Base>(d).value = 100; // error
-}
+}*/
