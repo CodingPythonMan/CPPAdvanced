@@ -141,6 +141,15 @@
     <ClCompile Include="Section01\Conversion\explicit1.cpp" />
     <ClCompile Include="Section01\Conversion\explicit2.cpp" />
     <ClCompile Include="Section01\Conversion\explicit3.cpp" />
+    <ClCompile Include="Section01\InheritancePointerToMember\cout_ptr_to_member1.cpp" />
+    <ClCompile Include="Section01\InheritancePointerToMember\cout_ptr_to_member2.cpp" />
+    <ClCompile Include="Section01\InheritancePointerToMember\inherit_this1.cpp" />
+    <ClCompile Include="Section01\InheritancePointerToMember\inherit_this2.cpp" />
+    <ClCompile Include="Section01\InheritancePointerToMember\inherit_this3.cpp" />
+    <ClCompile Include="Section01\New\new1.cpp" />
+    <ClCompile Include="Section01\New\new2.cpp" />
+    <ClCompile Include="Section01\New\new3.cpp" />
+    <ClCompile Include="Section01\New\new4.cpp" />
     <ClCompile Include="Section01\PointerToMemberData\max1.cpp" />
     <ClCompile Include="Section01\PointerToMemberData\max2.cpp" />
     <ClCompile Include="Section01\PointerToMemberData\max3.cpp" />
