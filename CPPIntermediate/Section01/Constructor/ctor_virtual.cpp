@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 
 class Base
 {
@@ -21,5 +21,5 @@ public:
 int main()
 {
 	Derived d;
-	d.foo();
-}
+	//d.foo();
+}*/

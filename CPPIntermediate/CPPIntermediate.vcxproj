@@ -141,6 +141,8 @@
     <ClCompile Include="Section01\Conversion\explicit1.cpp" />
     <ClCompile Include="Section01\Conversion\explicit2.cpp" />
     <ClCompile Include="Section01\Conversion\explicit3.cpp" />
+    <ClCompile Include="Section01\PointerToMemberFunction\ptr_to_mf1.cpp" />
+    <ClCompile Include="Section01\PointerToMemberFunction\thiscall1.cpp" />
     <ClCompile Include="Section01\Temporary\temporary1.cpp" />
     <ClCompile Include="Section01\Temporary\temporary2.cpp" />
     <ClCompile Include="Section01\Temporary\temporary_arg1.cpp" />
