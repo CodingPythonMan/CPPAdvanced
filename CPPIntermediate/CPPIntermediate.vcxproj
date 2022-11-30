@@ -129,10 +129,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Section01\Constructor\base_from_member1.cpp" />
+    <ClCompile Include="Section01\Constructor\base_from_member2.cpp" />
+    <ClCompile Include="Section01\Constructor\ctor1.cpp" />
+    <ClCompile Include="Section01\Constructor\ctor_virtual.cpp" />
     <ClCompile Include="Section01\Conversion\conversion1.cpp" />
     <ClCompile Include="Section01\Conversion\conversion2.cpp" />
     <ClCompile Include="Section01\Conversion\conversion_ex1.cpp" />
     <ClCompile Include="Section01\Conversion\conversion_ex2.cpp" />
+    <ClCompile Include="Section01\Conversion\conversion_ex3.cpp" />
     <ClCompile Include="Section01\Conversion\explicit1.cpp" />
     <ClCompile Include="Section01\Conversion\explicit2.cpp" />
     <ClCompile Include="Section01\Conversion\explicit3.cpp" />
