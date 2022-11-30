@@ -169,6 +169,10 @@
     <ClCompile Include="Section01\Temporary\temporary_casting.cpp" />
     <ClCompile Include="Section01\Temporary\temporary_return1.cpp" />
     <ClCompile Include="Section01\Temporary\temporary_return2.cpp" />
+    <ClCompile Include="Section01\Trivial\trivial1.cpp" />
+    <ClCompile Include="Section01\Trivial\trivial_copy1.cpp" />
+    <ClCompile Include="Section01\Trivial\trivial_copy2.cpp" />
+    <ClCompile Include="Section01\TypeDeduction\type_deduction1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
