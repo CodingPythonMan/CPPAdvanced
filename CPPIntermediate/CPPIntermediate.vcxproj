@@ -141,7 +141,17 @@
     <ClCompile Include="Section01\Conversion\explicit1.cpp" />
     <ClCompile Include="Section01\Conversion\explicit2.cpp" />
     <ClCompile Include="Section01\Conversion\explicit3.cpp" />
+    <ClCompile Include="Section01\PointerToMemberData\max1.cpp" />
+    <ClCompile Include="Section01\PointerToMemberData\max2.cpp" />
+    <ClCompile Include="Section01\PointerToMemberData\max3.cpp" />
+    <ClCompile Include="Section01\PointerToMemberData\max4.cpp" />
+    <ClCompile Include="Section01\PointerToMemberData\max5.cpp" />
+    <ClCompile Include="Section01\PointerToMemberData\max6.cpp" />
+    <ClCompile Include="Section01\PointerToMemberData\max7.cpp" />
+    <ClCompile Include="Section01\PointerToMemberData\ptr_to_md1.cpp" />
+    <ClCompile Include="Section01\PointerToMemberData\ptr_to_md2.cpp" />
     <ClCompile Include="Section01\PointerToMemberFunction\ptr_to_mf1.cpp" />
+    <ClCompile Include="Section01\PointerToMemberFunction\ptr_to_mf2.cpp" />
     <ClCompile Include="Section01\PointerToMemberFunction\thiscall1.cpp" />
     <ClCompile Include="Section01\Temporary\temporary1.cpp" />
     <ClCompile Include="Section01\Temporary\temporary2.cpp" />
