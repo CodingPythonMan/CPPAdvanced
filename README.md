@@ -1,6 +1,5 @@
 # C++ Advanced
-C++ Advanced
-I continue C++ Code. 
+- After finishing basic, continue C++ Code learning. 
 
 ## C++ Intermate
-- Learn about C++ temporary.
+- Learning about C++ temporary.
