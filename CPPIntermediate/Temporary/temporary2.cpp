@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 
 class Point
 {
@@ -24,4 +24,4 @@ int main()
 	//Point& r2 = Point(1, 2);	// error
 
 	const Point& r3 = Point(1, 2);
-}
+}*/
