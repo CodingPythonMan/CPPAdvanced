@@ -180,6 +180,10 @@
     <ClCompile Include="Section01\TypeDeduction1\template_type_deduction4.cpp" />
     <ClCompile Include="Section01\TypeDeduction1\type_deduction1.cpp" />
     <ClCompile Include="Section01\TypeDeduction1\type_deduction2.cpp" />
+    <ClCompile Include="Section01\TypeDeduction2\decltype_auto.cpp" />
+    <ClCompile Include="Section01\TypeDeduction2\decltype_auto_example.cpp" />
+    <ClCompile Include="Section01\TypeDeduction2\decltype_type_deduction1.cpp" />
+    <ClCompile Include="Section01\TypeDeduction2\decltype_type_deduction2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Section01\TypeDeduction1\cppmaster.h" />
