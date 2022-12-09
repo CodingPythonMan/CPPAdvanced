@@ -16,19 +16,19 @@ class Object
 public:
 	Object() = default;
 
+	// 복사 생성자 제공
 	Object(const Object& obj) : name(obj.name) {}
-	Object& operator=(const Object& obj) { name = obj.name; return *this; }
-	Object(Object&& obj) : name(std::move(obj.name)) {}
-	//Object& operator=(Object&& obj) { name = std::move(obj.name);return *this;}
+
+	Object(Object&& obj) = default;
+	Object& operator=(Object&& obj) = default;
+	Object& operator=(const Object& obj) = default;
 };
 
 int main()
 {
 	Object obj1;
-	Object obj2 = obj1;	// error 
-
-	obj2 = obj2; // ok
-
+	Object obj2 = obj1;
+	obj2 = obj2;
 
 	Object obj3 = std::move(obj1);  // ok
 	obj3 = std::move(obj1); // ok

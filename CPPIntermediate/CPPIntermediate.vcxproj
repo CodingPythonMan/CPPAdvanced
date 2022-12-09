@@ -200,6 +200,8 @@
     <ClCompile Include="Section02\MoveSemantics1\std_move1.cpp" />
     <ClCompile Include="Section02\MoveSemantics1\std_move2.cpp" />
     <ClCompile Include="Section02\MoveSemantics1\std_move3.cpp" />
+    <ClCompile Include="Section02\MoveSemantics2\default_move1.cpp" />
+    <ClCompile Include="Section02\MoveSemantics2\default_move2.cpp" />
     <ClCompile Include="Section02\ravluelvalue\ravlue2.cpp" />
     <ClCompile Include="Section02\ravluelvalue\reference_overloading1.cpp" />
     <ClCompile Include="Section02\ravluelvalue\reference_overloading2.cpp" />
