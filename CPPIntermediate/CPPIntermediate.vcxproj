@@ -184,6 +184,14 @@
     <ClCompile Include="Section01\TypeDeduction2\decltype_auto_example.cpp" />
     <ClCompile Include="Section01\TypeDeduction2\decltype_type_deduction1.cpp" />
     <ClCompile Include="Section01\TypeDeduction2\decltype_type_deduction2.cpp" />
+    <ClCompile Include="Section02\ravluelvalue\ravlue2.cpp" />
+    <ClCompile Include="Section02\ravluelvalue\reference_overloading1.cpp" />
+    <ClCompile Include="Section02\ravluelvalue\reference_overloading2.cpp" />
+    <ClCompile Include="Section02\ravluelvalue\ref_collapsing1.cpp" />
+    <ClCompile Include="Section02\ravluelvalue\ref_collapsing2.cpp" />
+    <ClCompile Include="Section02\ravluelvalue\rvalue1.cpp" />
+    <ClCompile Include="Section02\ravluelvalue\rvalue3.cpp" />
+    <ClCompile Include="Section02\ravluelvalue\rvalue_reference1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Section01\TypeDeduction1\cppmaster.h" />
