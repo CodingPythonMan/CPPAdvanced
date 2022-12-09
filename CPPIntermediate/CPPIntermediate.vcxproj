@@ -239,9 +239,15 @@
     <ClCompile Include="Section04\LambdaExpression1\closure_capture1.cpp" />
     <ClCompile Include="Section04\LambdaExpression1\closure_capture2.cpp" />
     <ClCompile Include="Section04\LambdaExpression1\closure_capture3.cpp" />
+    <ClCompile Include="Section04\LambdaExpression1\closure_capture4.cpp" />
     <ClCompile Include="Section04\LambdaExpression1\lambda_basic1.cpp" />
     <ClCompile Include="Section04\LambdaExpression1\lambda_basic2.cpp" />
     <ClCompile Include="Section04\LambdaExpression1\lambda_basic3.cpp" />
+    <ClCompile Include="Section04\LambdaExpression2\generic_lambda.cpp" />
+    <ClCompile Include="Section04\LambdaExpression2\lambda_function_pointer1.cpp" />
+    <ClCompile Include="Section04\LambdaExpression2\lambda_function_pointer2.cpp" />
+    <ClCompile Include="Section04\LambdaExpression2\lambda_function_pointer3.cpp" />
+    <ClCompile Include="Section04\LambdaExpression2\template_lambda.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Section01\TypeDeduction1\cppmaster.h" />
