@@ -190,6 +190,16 @@
     <ClCompile Include="Section02\ForwardingReference\forwarding_reference4.cpp" />
     <ClCompile Include="Section02\ForwardingReference\forwarding_reference5.cpp" />
     <ClCompile Include="Section02\ForwardingReference\forwarding_reference6.cpp" />
+    <ClCompile Include="Section02\ForwardingReference\forwarding_reference7.cpp" />
+    <ClCompile Include="Section02\MoveSemantics1\move_concept1.cpp" />
+    <ClCompile Include="Section02\MoveSemantics1\move_concept2.cpp" />
+    <ClCompile Include="Section02\MoveSemantics1\move_ctor1.cpp" />
+    <ClCompile Include="Section02\MoveSemantics1\move_ctor2.cpp" />
+    <ClCompile Include="Section02\MoveSemantics1\move_ctor3.cpp" />
+    <ClCompile Include="Section02\MoveSemantics1\move_ctor4.cpp" />
+    <ClCompile Include="Section02\MoveSemantics1\std_move1.cpp" />
+    <ClCompile Include="Section02\MoveSemantics1\std_move2.cpp" />
+    <ClCompile Include="Section02\MoveSemantics1\std_move3.cpp" />
     <ClCompile Include="Section02\ravluelvalue\ravlue2.cpp" />
     <ClCompile Include="Section02\ravluelvalue\reference_overloading1.cpp" />
     <ClCompile Include="Section02\ravluelvalue\reference_overloading2.cpp" />
