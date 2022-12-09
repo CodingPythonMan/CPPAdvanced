@@ -202,6 +202,8 @@
     <ClCompile Include="Section02\MoveSemantics1\std_move3.cpp" />
     <ClCompile Include="Section02\MoveSemantics2\default_move1.cpp" />
     <ClCompile Include="Section02\MoveSemantics2\default_move2.cpp" />
+    <ClCompile Include="Section02\MoveSemantics2\rule_of_five.cpp" />
+    <ClCompile Include="Section02\MoveSemantics2\rule_of_zero.cpp" />
     <ClCompile Include="Section02\ravluelvalue\ravlue2.cpp" />
     <ClCompile Include="Section02\ravluelvalue\reference_overloading1.cpp" />
     <ClCompile Include="Section02\ravluelvalue\reference_overloading2.cpp" />
@@ -210,10 +212,21 @@
     <ClCompile Include="Section02\ravluelvalue\rvalue1.cpp" />
     <ClCompile Include="Section02\ravluelvalue\rvalue3.cpp" />
     <ClCompile Include="Section02\ravluelvalue\rvalue_reference1.cpp" />
+    <ClCompile Include="Section03\chronometry1.cpp" />
+    <ClCompile Include="Section03\chronometry2.cpp" />
+    <ClCompile Include="Section03\chronometry3.cpp" />
+    <ClCompile Include="Section03\chronometry4.cpp" />
+    <ClCompile Include="Section03\chronometry5.cpp" />
+    <ClCompile Include="Section03\chronometry6.cpp" />
+    <ClCompile Include="Section03\chronometry7.cpp" />
+    <ClCompile Include="Section03\chronometry8.cpp" />
+    <ClCompile Include="Section03\using_chronometry1.cpp" />
+    <ClCompile Include="Section03\using_chronometry2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Section01\TypeDeduction1\cppmaster.h" />
     <ClInclude Include="Section02\ForwardingReference\cppmaster.h" />
+    <ClInclude Include="Section03\stopwatch.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
