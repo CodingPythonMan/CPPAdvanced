@@ -184,6 +184,12 @@
     <ClCompile Include="Section01\TypeDeduction2\decltype_auto_example.cpp" />
     <ClCompile Include="Section01\TypeDeduction2\decltype_type_deduction1.cpp" />
     <ClCompile Include="Section01\TypeDeduction2\decltype_type_deduction2.cpp" />
+    <ClCompile Include="Section02\ForwardingReference\forwarding_reference1.cpp" />
+    <ClCompile Include="Section02\ForwardingReference\forwarding_reference2.cpp" />
+    <ClCompile Include="Section02\ForwardingReference\forwarding_reference3.cpp" />
+    <ClCompile Include="Section02\ForwardingReference\forwarding_reference4.cpp" />
+    <ClCompile Include="Section02\ForwardingReference\forwarding_reference5.cpp" />
+    <ClCompile Include="Section02\ForwardingReference\forwarding_reference6.cpp" />
     <ClCompile Include="Section02\ravluelvalue\ravlue2.cpp" />
     <ClCompile Include="Section02\ravluelvalue\reference_overloading1.cpp" />
     <ClCompile Include="Section02\ravluelvalue\reference_overloading2.cpp" />
@@ -195,6 +201,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Section01\TypeDeduction1\cppmaster.h" />
+    <ClInclude Include="Section02\ForwardingReference\cppmaster.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
