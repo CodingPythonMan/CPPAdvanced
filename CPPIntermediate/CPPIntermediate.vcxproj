@@ -222,6 +222,26 @@
     <ClCompile Include="Section03\chronometry8.cpp" />
     <ClCompile Include="Section03\using_chronometry1.cpp" />
     <ClCompile Include="Section03\using_chronometry2.cpp" />
+    <ClCompile Include="Section04\FunctionObject\function_object1.cpp" />
+    <ClCompile Include="Section04\FunctionObject\function_object2.cpp" />
+    <ClCompile Include="Section04\FunctionObject\function_state1.cpp" />
+    <ClCompile Include="Section04\FunctionObject\function_state2.cpp" />
+    <ClCompile Include="Section04\FunctionObject\function_state3.cpp" />
+    <ClCompile Include="Section04\FunctionObject\functor_closure1.cpp" />
+    <ClCompile Include="Section04\FunctionObject\functor_closure2.cpp" />
+    <ClCompile Include="Section04\FunctionObject\functor_inline1.cpp" />
+    <ClCompile Include="Section04\FunctionObject\functor_inline2.cpp" />
+    <ClCompile Include="Section04\FunctionObject\functor_inline3.cpp" />
+    <ClCompile Include="Section04\FunctionObject\functor_inline4.cpp" />
+    <ClCompile Include="Section04\FunctionObject\functor_inline5.cpp" />
+    <ClCompile Include="Section04\LambdaExpression1\closure1.cpp" />
+    <ClCompile Include="Section04\LambdaExpression1\closure2.cpp" />
+    <ClCompile Include="Section04\LambdaExpression1\closure_capture1.cpp" />
+    <ClCompile Include="Section04\LambdaExpression1\closure_capture2.cpp" />
+    <ClCompile Include="Section04\LambdaExpression1\closure_capture3.cpp" />
+    <ClCompile Include="Section04\LambdaExpression1\lambda_basic1.cpp" />
+    <ClCompile Include="Section04\LambdaExpression1\lambda_basic2.cpp" />
+    <ClCompile Include="Section04\LambdaExpression1\lambda_basic3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Section01\TypeDeduction1\cppmaster.h" />
