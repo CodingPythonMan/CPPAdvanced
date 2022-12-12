@@ -190,6 +190,10 @@
     <ClCompile Include="Section04\IntegralConstant\integral_constant2.cpp" />
     <ClCompile Include="Section04\IntegralConstant\use_int2type.cpp" />
     <ClCompile Include="Section04\IntegralConstant\use_int2type2.cpp" />
+    <ClCompile Include="Section04\TraitsSummary\type_traits1.cpp" />
+    <ClCompile Include="Section04\TraitsSummary\type_traits2.cpp" />
+    <ClCompile Include="Section04\TraitsSummary\type_traits3.cpp" />
+    <ClCompile Include="Section04\TraitsSummary\type_traits4.cpp" />
     <ClCompile Include="Section04\TypeModification\remove_allpointer.cpp" />
     <ClCompile Include="Section04\TypeModification\remove_allpointer2.cpp" />
     <ClCompile Include="Section04\TypeModification\solve_paramter_type.cpp" />
