@@ -184,6 +184,12 @@
     <ClCompile Include="Section03\Specialization\specialization5.cpp" />
     <ClCompile Include="Section03\TemplateMeta\const_expr.cpp" />
     <ClCompile Include="Section03\TemplateMeta\factorial.cpp" />
+    <ClCompile Include="Section04\IntegralConstant\int2type.cpp" />
+    <ClCompile Include="Section04\IntegralConstant\int2type2.cpp" />
+    <ClCompile Include="Section04\IntegralConstant\integral_constant.cpp" />
+    <ClCompile Include="Section04\IntegralConstant\integral_constant2.cpp" />
+    <ClCompile Include="Section04\IntegralConstant\use_int2type.cpp" />
+    <ClCompile Include="Section04\IntegralConstant\use_int2type2.cpp" />
     <ClCompile Include="Section04\TypeTraits\is_array.cpp" />
     <ClCompile Include="Section04\TypeTraits\is_array2.cpp" />
     <ClCompile Include="Section04\TypeTraits\type_trait1.cpp" />
