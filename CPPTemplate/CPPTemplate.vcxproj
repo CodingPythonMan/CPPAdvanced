@@ -194,6 +194,7 @@
     <ClCompile Include="Section04\TraitsSummary\type_traits2.cpp" />
     <ClCompile Include="Section04\TraitsSummary\type_traits3.cpp" />
     <ClCompile Include="Section04\TraitsSummary\type_traits4.cpp" />
+    <ClCompile Include="Section04\TraitsSummary\type_traits5.cpp" />
     <ClCompile Include="Section04\TypeModification\remove_allpointer.cpp" />
     <ClCompile Include="Section04\TypeModification\remove_allpointer2.cpp" />
     <ClCompile Include="Section04\TypeModification\solve_paramter_type.cpp" />
@@ -203,6 +204,10 @@
     <ClCompile Include="Section04\TypeTraits\is_array2.cpp" />
     <ClCompile Include="Section04\TypeTraits\type_trait1.cpp" />
     <ClCompile Include="Section04\TypeTraits\type_trait2.cpp" />
+    <ClCompile Include="Section05\VariadicTemplate\pack_expansion1.cpp" />
+    <ClCompile Include="Section05\VariadicTemplate\pack_expansion2.cpp" />
+    <ClCompile Include="Section05\VariadicTemplate\parameter_pack.cpp" />
+    <ClCompile Include="Section05\VariadicTemplate\variadic_template1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Section01\TemplateBasic\Lib.h" />
