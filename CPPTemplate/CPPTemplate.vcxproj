@@ -160,6 +160,15 @@
     <ClCompile Include="Section02\TemplateFriend\template_friend2.cpp" />
     <ClCompile Include="Section02\TemplateFriend\template_friend3.cpp" />
     <ClCompile Include="Section02\TemplateFriend\template_friend4.cpp" />
+    <ClCompile Include="Section02\TemplateParameter\template_parameter3.cpp" />
+    <ClCompile Include="Section02\TemplateParameter\template_parameter4.cpp" />
+    <ClCompile Include="Section02\TypenameTemplate\template_keyword.cpp" />
+    <ClCompile Include="Section02\TemplateParameter\template_parameter.cpp" />
+    <ClCompile Include="Section02\TemplateParameter\template_parameter2.cpp" />
+    <ClCompile Include="Section02\TypenameTemplate\typename_prac.cpp" />
+    <ClCompile Include="Section02\TypenameTemplate\typename_prac2.cpp" />
+    <ClCompile Include="Section02\TypenameTemplate\value_type1.cpp" />
+    <ClCompile Include="Section02\TypenameTemplate\value_type2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Section01\TemplateBasic\Lib.h" />
