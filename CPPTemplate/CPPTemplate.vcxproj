@@ -152,6 +152,14 @@
     <ClCompile Include="Section01\TemplateBasic\template_foo3.cpp" />
     <ClCompile Include="Section01\TemplateBasic\userdefinededuction.cpp" />
     <ClCompile Include="Section02\GenericCopyCotr\template_basic.cpp" />
+    <ClCompile Include="Section02\GenericCopyCotr\template_basic2.cpp" />
+    <ClCompile Include="Section02\GenericCopyCotr\template_memberfunc.cpp" />
+    <ClCompile Include="Section02\GenericCopyCotr\template_memberfunc2.cpp" />
+    <ClCompile Include="Section02\GenericCopyCotr\template_memberfunc3.cpp" />
+    <ClCompile Include="Section02\TemplateFriend\template_friend1.cpp" />
+    <ClCompile Include="Section02\TemplateFriend\template_friend2.cpp" />
+    <ClCompile Include="Section02\TemplateFriend\template_friend3.cpp" />
+    <ClCompile Include="Section02\TemplateFriend\template_friend4.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Section01\TemplateBasic\Lib.h" />
