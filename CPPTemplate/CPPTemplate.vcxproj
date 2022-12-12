@@ -162,6 +162,8 @@
     <ClCompile Include="Section02\TemplateFriend\template_friend4.cpp" />
     <ClCompile Include="Section02\TemplateParameter\template_parameter3.cpp" />
     <ClCompile Include="Section02\TemplateParameter\template_parameter4.cpp" />
+    <ClCompile Include="Section02\TemplateParameter\template_parameter5.cpp" />
+    <ClCompile Include="Section02\TemplateParameter\template_parameter6.cpp" />
     <ClCompile Include="Section02\TypenameTemplate\template_keyword.cpp" />
     <ClCompile Include="Section02\TemplateParameter\template_parameter.cpp" />
     <ClCompile Include="Section02\TemplateParameter\template_parameter2.cpp" />
@@ -169,6 +171,15 @@
     <ClCompile Include="Section02\TypenameTemplate\typename_prac2.cpp" />
     <ClCompile Include="Section02\TypenameTemplate\value_type1.cpp" />
     <ClCompile Include="Section02\TypenameTemplate\value_type2.cpp" />
+    <ClCompile Include="Section03\SpecializationUse\couple_template.cpp" />
+    <ClCompile Include="Section03\SpecializationUse\couple_template2.cpp" />
+    <ClCompile Include="Section03\SpecializationUse\use1.cpp" />
+    <ClCompile Include="Section03\SpecializationUse\use2.cpp" />
+    <ClCompile Include="Section03\Specialization\specialization1.cpp" />
+    <ClCompile Include="Section03\Specialization\specialization2.cpp" />
+    <ClCompile Include="Section03\Specialization\specialization3.cpp" />
+    <ClCompile Include="Section03\Specialization\specialization4.cpp" />
+    <ClCompile Include="Section03\Specialization\specialization5.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Section01\TemplateBasic\Lib.h" />
