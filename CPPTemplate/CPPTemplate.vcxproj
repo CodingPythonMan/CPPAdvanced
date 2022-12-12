@@ -173,6 +173,8 @@
     <ClCompile Include="Section02\TypenameTemplate\value_type2.cpp" />
     <ClCompile Include="Section03\SpecializationUse\couple_template.cpp" />
     <ClCompile Include="Section03\SpecializationUse\couple_template2.cpp" />
+    <ClCompile Include="Section03\SpecializationUse\tuple_using_couple.cpp" />
+    <ClCompile Include="Section03\SpecializationUse\tuple_using_couple2.cpp" />
     <ClCompile Include="Section03\SpecializationUse\use1.cpp" />
     <ClCompile Include="Section03\SpecializationUse\use2.cpp" />
     <ClCompile Include="Section03\Specialization\specialization1.cpp" />
@@ -180,6 +182,12 @@
     <ClCompile Include="Section03\Specialization\specialization3.cpp" />
     <ClCompile Include="Section03\Specialization\specialization4.cpp" />
     <ClCompile Include="Section03\Specialization\specialization5.cpp" />
+    <ClCompile Include="Section03\TemplateMeta\const_expr.cpp" />
+    <ClCompile Include="Section03\TemplateMeta\factorial.cpp" />
+    <ClCompile Include="Section04\TypeTraits\is_array.cpp" />
+    <ClCompile Include="Section04\TypeTraits\is_array2.cpp" />
+    <ClCompile Include="Section04\TypeTraits\type_trait1.cpp" />
+    <ClCompile Include="Section04\TypeTraits\type_trait2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Section01\TemplateBasic\Lib.h" />
