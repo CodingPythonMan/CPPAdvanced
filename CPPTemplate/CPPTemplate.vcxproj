@@ -133,6 +133,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Section01\TemplateBasic\argument_decay3.cpp" />
     <ClCompile Include="Section01\TemplateBasic\argument_decay.cpp" />
     <ClCompile Include="Section01\TemplateBasic\argument_decay2.cpp" />
     <ClCompile Include="Section01\TemplateBasic\array_name.cpp" />
@@ -150,6 +151,7 @@
     <ClCompile Include="Section01\TemplateBasic\template_foo2.cpp" />
     <ClCompile Include="Section01\TemplateBasic\template_foo3.cpp" />
     <ClCompile Include="Section01\TemplateBasic\userdefinededuction.cpp" />
+    <ClCompile Include="Section02\GenericCopyCotr\template_basic.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Section01\TemplateBasic\Lib.h" />
