@@ -236,8 +236,15 @@
     <ClCompile Include="Section06\CRTP\use_crtp2.cpp" />
     <ClCompile Include="Section06\PolicyBasedDesign\policy_based_design.cpp" />
     <ClCompile Include="Section06\PolicyBasedDesign\policy_based_design2.cpp" />
+    <ClCompile Include="Section06\PolicyBasedDesign\rebind.cpp" />
     <ClCompile Include="Section06\PolicyBasedDesign\use_in_vector.cpp" />
     <ClCompile Include="Section06\PolicyBasedDesign\use_in_vector2.cpp" />
+    <ClCompile Include="Section06\SFINAE\enable_if.cpp" />
+    <ClCompile Include="Section06\SFINAE\enable_if_integral_constant.cpp" />
+    <ClCompile Include="Section06\SFINAE\position_enable_if.cpp" />
+    <ClCompile Include="Section06\SFINAE\sfinae.cpp" />
+    <ClCompile Include="Section06\SFINAE\sfinae2.cpp" />
+    <ClCompile Include="Section06\SFINAE\use_enable_if.cpp" />
     <ClCompile Include="Section06\ThinTemplate\thin_template.cpp" />
     <ClCompile Include="Section06\ThinTemplate\thin_template2.cpp" />
     <ClCompile Include="Section06\ThinTemplate\thin_template3.cpp" />
