@@ -234,6 +234,13 @@
     <ClCompile Include="Section06\CRTP\crtp2.cpp" />
     <ClCompile Include="Section06\CRTP\use_crtp.cpp" />
     <ClCompile Include="Section06\CRTP\use_crtp2.cpp" />
+    <ClCompile Include="Section06\MemberDetectIdioms\member_detect_idioms.cpp" />
+    <ClCompile Include="Section06\MemberDetectIdioms\member_function_detection.cpp" />
+    <ClCompile Include="Section06\MemberDetectIdioms\size_of.cpp" />
+    <ClCompile Include="Section06\MemberDetectIdioms\size_of2.cpp" />
+    <ClCompile Include="Section06\MemberDetectIdioms\typedef_detect.cpp" />
+    <ClCompile Include="Section06\MemberDetectIdioms\typedef_detect2.cpp" />
+    <ClCompile Include="Section06\MemberDetectIdioms\typedef_detect3.cpp" />
     <ClCompile Include="Section06\PolicyBasedDesign\policy_based_design.cpp" />
     <ClCompile Include="Section06\PolicyBasedDesign\policy_based_design2.cpp" />
     <ClCompile Include="Section06\PolicyBasedDesign\rebind.cpp" />
