@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include <vector>
 using namespace std;
 
@@ -19,4 +19,4 @@ void foo(Types ... args)
 int main()
 {
 	foo(1, 2, 3);
-}
+}*/
