@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 using namespace std;
 
 template<typename T, typename U> struct Typelist
@@ -53,4 +53,4 @@ int main()
 	MakeCode<int, Holder> mc1;		// Holder<int>
 	MakeCode<double, Holder> mc2;	// Holder<double>
 	MakeCode<NullType, Holder> mc3; // empty
-}
+}*/

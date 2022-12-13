@@ -262,6 +262,8 @@
     <ClCompile Include="Section06\Typelist\typelist5.cpp" />
     <ClCompile Include="Section06\Typelist\typelist6.cpp" />
     <ClCompile Include="Section06\Typelist\typelist7.cpp" />
+    <ClCompile Include="Section06\Typelist\typelist8.cpp" />
+    <ClCompile Include="Section07\concept.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Section01\TemplateBasic\Lib.h" />
