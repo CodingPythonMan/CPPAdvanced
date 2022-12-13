@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include <tuple>
 using namespace std;
 
@@ -24,4 +24,4 @@ int main()
 
 	//print_tuple(tp, xindex_sequence<0,1,2>());		// 1, 2, 3
 	print_tuple(tp);
-}
+}*/

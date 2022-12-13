@@ -230,6 +230,9 @@
     <ClCompile Include="Section05\VariadicTemplate\pack_expansion4.cpp" />
     <ClCompile Include="Section05\VariadicTemplate\parameter_pack.cpp" />
     <ClCompile Include="Section05\VariadicTemplate\variadic_template1.cpp" />
+    <ClCompile Include="Section06\ThinTemplate\thin_template.cpp" />
+    <ClCompile Include="Section06\ThinTemplate\thin_template2.cpp" />
+    <ClCompile Include="Section06\ThinTemplate\thin_template3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Section01\TemplateBasic\Lib.h" />
