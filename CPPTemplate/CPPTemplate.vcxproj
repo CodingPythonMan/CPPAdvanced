@@ -255,6 +255,13 @@
     <ClCompile Include="Section06\ThinTemplate\thin_template.cpp" />
     <ClCompile Include="Section06\ThinTemplate\thin_template2.cpp" />
     <ClCompile Include="Section06\ThinTemplate\thin_template3.cpp" />
+    <ClCompile Include="Section06\Typelist\typelist.cpp" />
+    <ClCompile Include="Section06\Typelist\typelist2.cpp" />
+    <ClCompile Include="Section06\Typelist\typelist3.cpp" />
+    <ClCompile Include="Section06\Typelist\typelist4.cpp" />
+    <ClCompile Include="Section06\Typelist\typelist5.cpp" />
+    <ClCompile Include="Section06\Typelist\typelist6.cpp" />
+    <ClCompile Include="Section06\Typelist\typelist7.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Section01\TemplateBasic\Lib.h" />
