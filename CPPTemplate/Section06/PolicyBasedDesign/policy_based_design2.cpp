@@ -1,18 +1,33 @@
-template<typename T, typename ThreadModel> class List
+/*template<typename T, typename ThreadModel = NoLock>
+class List
 {
 	ThreadModel tm;
 public:
 	void push_front(const T& a)
 	{
-		
+		tm.lock();
 
-		
+		tm.unlock();
 	}
 };
 
-List<int> s;
+class NoLock
+{
+public:
+	inline void lock() {}
+	inline void unlock() {}
+};
+
+class MutexLock
+{
+public:
+	inline void lock() {}
+	inline void unlock() {}
+};
+
+List<int, NoLock> s;
 
 int main()
 {
 	s.push_front(10);
-}
+}*/
