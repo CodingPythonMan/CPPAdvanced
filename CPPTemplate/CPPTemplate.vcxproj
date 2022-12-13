@@ -204,8 +204,15 @@
     <ClCompile Include="Section04\TypeTraits\is_array2.cpp" />
     <ClCompile Include="Section04\TypeTraits\type_trait1.cpp" />
     <ClCompile Include="Section04\TypeTraits\type_trait2.cpp" />
+    <ClCompile Include="Section05\VariadicTemplate2\fold_expression.cpp" />
+    <ClCompile Include="Section05\VariadicTemplate2\fold_expression2.cpp" />
+    <ClCompile Include="Section05\VariadicTemplate2\fold_expression3.cpp" />
+    <ClCompile Include="Section05\VariadicTemplate2\using_recursive1.cpp" />
+    <ClCompile Include="Section05\VariadicTemplate2\using_recursive2.cpp" />
     <ClCompile Include="Section05\VariadicTemplate\pack_expansion1.cpp" />
     <ClCompile Include="Section05\VariadicTemplate\pack_expansion2.cpp" />
+    <ClCompile Include="Section05\VariadicTemplate\pack_expansion3.cpp" />
+    <ClCompile Include="Section05\VariadicTemplate\pack_expansion4.cpp" />
     <ClCompile Include="Section05\VariadicTemplate\parameter_pack.cpp" />
     <ClCompile Include="Section05\VariadicTemplate\variadic_template1.cpp" />
   </ItemGroup>
