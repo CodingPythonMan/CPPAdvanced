@@ -129,10 +129,25 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Iterator\IteratorBasic\iterator1.cpp" />
+    <ClCompile Include="Iterator\IteratorBasic\iterator2.cpp" />
+    <ClCompile Include="Iterator\IteratorBasic\iterator3.cpp" />
+    <ClCompile Include="Iterator\IteratorBasic\range1.cpp" />
+    <ClCompile Include="Iterator\IteratorBasic\range2.cpp" />
+    <ClCompile Include="Iterator\IteratorCategory\iterator_category1.cpp" />
+    <ClCompile Include="Iterator\IteratorCategory\iterator_category2.cpp" />
+    <ClCompile Include="STLDesign\ContainerIterator\container.cpp" />
+    <ClCompile Include="STLDesign\ContainerIterator\container2.cpp" />
+    <ClCompile Include="STLDesign\ContainerIterator\container3.cpp" />
+    <ClCompile Include="STLDesign\ContainerIterator\container4.cpp" />
     <ClCompile Include="STLDesign\FindAlgorithm\find_algorithm.cpp" />
     <ClCompile Include="STLDesign\FindAlgorithm\find_algorithm2.cpp" />
     <ClCompile Include="STLDesign\FindAlgorithm\find_algorithm3.cpp" />
     <ClCompile Include="STLDesign\FindAlgorithm\find_algorithm4.cpp" />
+    <ClCompile Include="STLDesign\Structure\concept.cpp" />
+    <ClCompile Include="STLDesign\Structure\cpp17stl.cpp" />
+    <ClCompile Include="STLDesign\Structure\member_type.cpp" />
+    <ClCompile Include="STLDesign\Structure\member_type2.cpp" />
     <ClCompile Include="STLPreview\using_bitset.cpp" />
     <ClCompile Include="STLPreview\using_pair.cpp" />
     <ClCompile Include="STLPreview\using_pair2.cpp" />

@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include <algorithm>
 
 template<typename T1, typename T2>
@@ -22,4 +22,4 @@ int main()
 		std::cout << "fail" << std::endl;
 	else
 		std::cout << "success : " << *p << std::endl;
-}
+}*/
