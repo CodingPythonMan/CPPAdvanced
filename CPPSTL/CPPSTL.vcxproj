@@ -136,6 +136,12 @@
     <ClCompile Include="Iterator\IteratorBasic\range2.cpp" />
     <ClCompile Include="Iterator\IteratorCategory\iterator_category1.cpp" />
     <ClCompile Include="Iterator\IteratorCategory\iterator_category2.cpp" />
+    <ClCompile Include="Iterator\IteratorCategory\iterator_category3.cpp" />
+    <ClCompile Include="Iterator\IteratorCategory\iterator_category4.cpp" />
+    <ClCompile Include="Iterator\IteratorCategory\iterator_category5.cpp" />
+    <ClCompile Include="Iterator\IteratorCategory\tag_dispatching1.cpp" />
+    <ClCompile Include="Iterator\IteratorCategory\tag_dispatching2.cpp" />
+    <ClCompile Include="Iterator\IteratorCategory\tag_dispatching3.cpp" />
     <ClCompile Include="STLDesign\ContainerIterator\container.cpp" />
     <ClCompile Include="STLDesign\ContainerIterator\container2.cpp" />
     <ClCompile Include="STLDesign\ContainerIterator\container3.cpp" />

@@ -1,4 +1,4 @@
-#include <forward_list>
+/*#include <forward_list>
 #include <list>
 
 int main()
@@ -11,4 +11,4 @@ int main()
 
 	++p;
 	//--p;
-}
+}*/
