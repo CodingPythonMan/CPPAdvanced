@@ -129,6 +129,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Iterator\InsertIterator\insert_iterator.cpp" />
+    <ClCompile Include="Iterator\InsertIterator\insert_iterator2.cpp" />
+    <ClCompile Include="Iterator\InsertIterator\insert_iterator3.cpp" />
+    <ClCompile Include="Iterator\InsertIterator\insert_iterator4.cpp" />
+    <ClCompile Include="Iterator\InsertIterator\insert_iterator5.cpp" />
     <ClCompile Include="Iterator\IteratorBasic\iterator1.cpp" />
     <ClCompile Include="Iterator\IteratorBasic\iterator2.cpp" />
     <ClCompile Include="Iterator\IteratorBasic\iterator3.cpp" />
