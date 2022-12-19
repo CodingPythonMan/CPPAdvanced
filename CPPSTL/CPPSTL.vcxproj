@@ -134,6 +134,11 @@
     <ClCompile Include="Iterator\InsertIterator\insert_iterator3.cpp" />
     <ClCompile Include="Iterator\InsertIterator\insert_iterator4.cpp" />
     <ClCompile Include="Iterator\InsertIterator\insert_iterator5.cpp" />
+    <ClCompile Include="Iterator\IteratorAdapter\iterator_adapter1.cpp" />
+    <ClCompile Include="Iterator\IteratorAdapter\iterator_adapter2.cpp" />
+    <ClCompile Include="Iterator\IteratorAdapter\iterator_adapter3.cpp" />
+    <ClCompile Include="Iterator\IteratorAdapter\iterator_adapter4.cpp" />
+    <ClCompile Include="Iterator\IteratorAdapter\iterator_adapter5.cpp" />
     <ClCompile Include="Iterator\IteratorBasic\iterator1.cpp" />
     <ClCompile Include="Iterator\IteratorBasic\iterator2.cpp" />
     <ClCompile Include="Iterator\IteratorBasic\iterator3.cpp" />
@@ -184,6 +189,9 @@
     <ClCompile Include="STLPreview\using_std_string.cpp" />
     <ClCompile Include="STLPreview\using_std_string2.cpp" />
     <ClCompile Include="STLPreview\using_std_string3.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Iterator\IteratorAdapter\People.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
