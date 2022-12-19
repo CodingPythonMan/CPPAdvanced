@@ -155,6 +155,16 @@
     <ClCompile Include="Iterator\IteratorTraits\iterator_traits3.cpp" />
     <ClCompile Include="Iterator\IteratorTraits\iterator_traits4.cpp" />
     <ClCompile Include="Iterator\IteratorTraits\iterator_traits5.cpp" />
+    <ClCompile Include="Iterator\StreamIterator\istream_iterator.cpp" />
+    <ClCompile Include="Iterator\StreamIterator\istream_iterator2.cpp" />
+    <ClCompile Include="Iterator\StreamIterator\istream_iterator3.cpp" />
+    <ClCompile Include="Iterator\StreamIterator\stream_iterator1.cpp" />
+    <ClCompile Include="Iterator\StreamIterator\stream_iterator2.cpp" />
+    <ClCompile Include="Iterator\StreamIterator\stream_iterator3.cpp" />
+    <ClCompile Include="Iterator\StreamIterator\stream_iterator4.cpp" />
+    <ClCompile Include="Iterator\StreamIterator\stream_iterator5.cpp" />
+    <ClCompile Include="Iterator\StreamIterator\stream_iterator6.cpp" />
+    <ClCompile Include="Iterator\StreamIterator\stream_iterator7.cpp" />
     <ClCompile Include="STLDesign\ContainerIterator\container.cpp" />
     <ClCompile Include="STLDesign\ContainerIterator\container2.cpp" />
     <ClCompile Include="STLDesign\ContainerIterator\container3.cpp" />

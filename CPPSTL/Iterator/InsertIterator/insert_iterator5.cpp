@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include <list>
 #include <algorithm>
 using namespace std;
@@ -49,4 +49,4 @@ int main()
 
 	for (auto& n : s)
 		cout << n << ", ";
-}
+}*/
