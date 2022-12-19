@@ -134,6 +134,11 @@
     <ClCompile Include="Algorithm\STLAlgorithmFunction\functor1.cpp" />
     <ClCompile Include="Algorithm\STLAlgorithmFunction\transform1.cpp" />
     <ClCompile Include="Algorithm\STLAlgorithmFunction\transform2.cpp" />
+    <ClCompile Include="Algorithm\STLAlgorithmTransform\bind1.cpp" />
+    <ClCompile Include="Algorithm\STLAlgorithmTransform\bind2.cpp" />
+    <ClCompile Include="Algorithm\STLAlgorithmTransform\pred1.cpp" />
+    <ClCompile Include="Algorithm\STLAlgorithmTransform\pred2.cpp" />
+    <ClCompile Include="Algorithm\STLAlgorithmTransform\pred3.cpp" />
     <ClCompile Include="Algorithm\STLAlgorithm\algo1.cpp" />
     <ClCompile Include="Algorithm\STLAlgorithm\algo2.cpp" />
     <ClCompile Include="Algorithm\STLAlgorithm\algo3.cpp" />
@@ -202,6 +207,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Algorithm\STLAlgorithmFunction\ecourse_st1.h" />
+    <ClInclude Include="Algorithm\STLAlgorithmTransform\ecourse_st1.h" />
     <ClInclude Include="Algorithm\STLAlgorithm\ecourse_st1.h" />
     <ClInclude Include="Iterator\IteratorAdapter\People.h" />
   </ItemGroup>
