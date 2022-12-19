@@ -140,9 +140,16 @@
     <ClCompile Include="Iterator\IteratorCategory\iterator_category4.cpp" />
     <ClCompile Include="Iterator\IteratorCategory\iterator_category5.cpp" />
     <ClCompile Include="Iterator\IteratorCategory\member_type.cpp" />
+    <ClCompile Include="Iterator\IteratorCategory\member_type2.cpp" />
+    <ClCompile Include="Iterator\IteratorCategory\member_type3.cpp" />
     <ClCompile Include="Iterator\IteratorCategory\tag_dispatching1.cpp" />
     <ClCompile Include="Iterator\IteratorCategory\tag_dispatching2.cpp" />
     <ClCompile Include="Iterator\IteratorCategory\tag_dispatching3.cpp" />
+    <ClCompile Include="Iterator\IteratorTraits\iterator_traits.cpp" />
+    <ClCompile Include="Iterator\IteratorTraits\iterator_traits2.cpp" />
+    <ClCompile Include="Iterator\IteratorTraits\iterator_traits3.cpp" />
+    <ClCompile Include="Iterator\IteratorTraits\iterator_traits4.cpp" />
+    <ClCompile Include="Iterator\IteratorTraits\iterator_traits5.cpp" />
     <ClCompile Include="STLDesign\ContainerIterator\container.cpp" />
     <ClCompile Include="STLDesign\ContainerIterator\container2.cpp" />
     <ClCompile Include="STLDesign\ContainerIterator\container3.cpp" />
