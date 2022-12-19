@@ -129,6 +129,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Algorithm\STLAlgorithmFunction\for_each.cpp" />
+    <ClCompile Include="Algorithm\STLAlgorithmFunction\for_each2.cpp" />
+    <ClCompile Include="Algorithm\STLAlgorithmFunction\functor1.cpp" />
+    <ClCompile Include="Algorithm\STLAlgorithmFunction\transform1.cpp" />
+    <ClCompile Include="Algorithm\STLAlgorithmFunction\transform2.cpp" />
     <ClCompile Include="Algorithm\STLAlgorithm\algo1.cpp" />
     <ClCompile Include="Algorithm\STLAlgorithm\algo2.cpp" />
     <ClCompile Include="Algorithm\STLAlgorithm\algo3.cpp" />
@@ -196,6 +201,7 @@
     <ClCompile Include="STLPreview\using_std_string3.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Algorithm\STLAlgorithmFunction\ecourse_st1.h" />
     <ClInclude Include="Algorithm\STLAlgorithm\ecourse_st1.h" />
     <ClInclude Include="Iterator\IteratorAdapter\People.h" />
   </ItemGroup>
