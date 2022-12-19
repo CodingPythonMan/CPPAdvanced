@@ -129,6 +129,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Algorithm\STLAlgorithm\algo1.cpp" />
+    <ClCompile Include="Algorithm\STLAlgorithm\algo2.cpp" />
+    <ClCompile Include="Algorithm\STLAlgorithm\algo3.cpp" />
     <ClCompile Include="Iterator\InsertIterator\insert_iterator.cpp" />
     <ClCompile Include="Iterator\InsertIterator\insert_iterator2.cpp" />
     <ClCompile Include="Iterator\InsertIterator\insert_iterator3.cpp" />
@@ -193,6 +196,7 @@
     <ClCompile Include="STLPreview\using_std_string3.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Algorithm\STLAlgorithm\ecourse_st1.h" />
     <ClInclude Include="Iterator\IteratorAdapter\People.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
