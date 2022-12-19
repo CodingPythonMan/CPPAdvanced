@@ -142,6 +142,7 @@
     <ClCompile Include="Algorithm\STLAlgorithm\algo1.cpp" />
     <ClCompile Include="Algorithm\STLAlgorithm\algo2.cpp" />
     <ClCompile Include="Algorithm\STLAlgorithm\algo3.cpp" />
+    <ClCompile Include="Container\STLContainerFeature\container1.cpp" />
     <ClCompile Include="Iterator\InsertIterator\insert_iterator.cpp" />
     <ClCompile Include="Iterator\InsertIterator\insert_iterator2.cpp" />
     <ClCompile Include="Iterator\InsertIterator\insert_iterator3.cpp" />
@@ -162,9 +163,9 @@
     <ClCompile Include="Iterator\IteratorCategory\iterator_category3.cpp" />
     <ClCompile Include="Iterator\IteratorCategory\iterator_category4.cpp" />
     <ClCompile Include="Iterator\IteratorCategory\iterator_category5.cpp" />
-    <ClCompile Include="Iterator\IteratorCategory\member_type.cpp" />
-    <ClCompile Include="Iterator\IteratorCategory\member_type2.cpp" />
-    <ClCompile Include="Iterator\IteratorCategory\member_type3.cpp" />
+    <ClCompile Include="Iterator\IteratorCategory\memb_type.cpp" />
+    <ClCompile Include="Iterator\IteratorCategory\memb_type2.cpp" />
+    <ClCompile Include="Iterator\IteratorCategory\memb_type3.cpp" />
     <ClCompile Include="Iterator\IteratorCategory\tag_dispatching1.cpp" />
     <ClCompile Include="Iterator\IteratorCategory\tag_dispatching2.cpp" />
     <ClCompile Include="Iterator\IteratorCategory\tag_dispatching3.cpp" />
