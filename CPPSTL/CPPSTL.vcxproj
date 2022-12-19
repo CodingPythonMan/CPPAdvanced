@@ -142,6 +142,7 @@
     <ClCompile Include="Algorithm\STLAlgorithm\algo1.cpp" />
     <ClCompile Include="Algorithm\STLAlgorithm\algo2.cpp" />
     <ClCompile Include="Algorithm\STLAlgorithm\algo3.cpp" />
+    <ClCompile Include="Container\Adapter\stack.cpp" />
     <ClCompile Include="Container\STLContainerFeature\container1.cpp" />
     <ClCompile Include="Container\STLContainerFeature\policy1.cpp" />
     <ClCompile Include="Container\STLContainerFeature\policy2.cpp" />
@@ -152,6 +153,11 @@
     <ClCompile Include="Container\STLSequenceContainer1\vector2.cpp" />
     <ClCompile Include="Container\STLSequenceContainer1\vector3.cpp" />
     <ClCompile Include="Container\STLSequenceContainer1\vector4.cpp" />
+    <ClCompile Include="Container\STLSequenceContainer2\allocator1.cpp" />
+    <ClCompile Include="Container\STLSequenceContainer2\allocator2.cpp" />
+    <ClCompile Include="Container\STLSequenceContainer2\usertype1.cpp" />
+    <ClCompile Include="Container\STLSequenceContainer2\usertype2.cpp" />
+    <ClCompile Include="Container\STLSequenceContainer2\usertype3.cpp" />
     <ClCompile Include="Iterator\InsertIterator\insert_iterator.cpp" />
     <ClCompile Include="Iterator\InsertIterator\insert_iterator2.cpp" />
     <ClCompile Include="Iterator\InsertIterator\insert_iterator3.cpp" />
@@ -220,6 +226,8 @@
     <ClInclude Include="Algorithm\STLAlgorithmTransform\ecourse_st1.h" />
     <ClInclude Include="Algorithm\STLAlgorithm\ecourse_st1.h" />
     <ClInclude Include="Container\STLSequenceContainer1\ecourse_st1.h" />
+    <ClInclude Include="Container\STLSequenceContainer2\MyAlloc2.h" />
+    <ClInclude Include="Container\STLSequenceContainer2\Point.h" />
     <ClInclude Include="Iterator\IteratorAdapter\People.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
