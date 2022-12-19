@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include <vector>
 #include <list>
 #include <iterator>
@@ -20,7 +20,7 @@ using namespace std;
 //	}
 //}
 
-// 3.
+// 3.enable_if 를 사용.. SFINAE 개념 사용.
 template<typename T> 
 enable_if<is_same<typename T::iterator_category, random_access_iterator_tag>::value>::type 
 eadvance(T& p, int n)
@@ -28,7 +28,9 @@ eadvance(T& p, int n)
 	p = p + n;
 }
 
-template<typename T> void eadvance(T& p, int n)
+template<typename T>
+enable_if<!is_same<typename T::iterator_category, random_access_iterator_tag>::value>::type
+eadvance(T& p, int n)
 {
 	while (n--) ++p;
 }
@@ -45,4 +47,4 @@ int main()
 	eadvance(p, 5);
 
 	std::cout << *p << std::endl;
-}
+}*/
