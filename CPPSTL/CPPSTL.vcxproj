@@ -155,6 +155,8 @@
     <ClCompile Include="Iterator\IteratorCategory\tag_dispatching1.cpp" />
     <ClCompile Include="Iterator\IteratorCategory\tag_dispatching2.cpp" />
     <ClCompile Include="Iterator\IteratorCategory\tag_dispatching3.cpp" />
+    <ClCompile Include="Iterator\IteratorHelper\iter_func1.cpp" />
+    <ClCompile Include="Iterator\IteratorHelper\iter_func2.cpp" />
     <ClCompile Include="Iterator\IteratorTraits\iterator_traits.cpp" />
     <ClCompile Include="Iterator\IteratorTraits\iterator_traits2.cpp" />
     <ClCompile Include="Iterator\IteratorTraits\iterator_traits3.cpp" />
