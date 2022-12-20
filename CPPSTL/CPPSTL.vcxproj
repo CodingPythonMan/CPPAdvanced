@@ -145,8 +145,17 @@
     <ClCompile Include="Container\Adapter\adapter.cpp" />
     <ClCompile Include="Container\Adapter\pq.cpp" />
     <ClCompile Include="Container\Adapter\stack.cpp" />
+    <ClCompile Include="Container\Associative\map1.cpp" />
+    <ClCompile Include="Container\Associative\map2.cpp" />
+    <ClCompile Include="Container\Associative\map3.cpp" />
     <ClCompile Include="Container\Associative\set1.cpp" />
     <ClCompile Include="Container\Associative\set2.cpp" />
+    <ClCompile Include="Container\Associative\set3.cpp" />
+    <ClCompile Include="Container\Associative\stream1.cpp" />
+    <ClCompile Include="Container\Associative\stream2.cpp" />
+    <ClCompile Include="Container\Associative\unordered1.cpp" />
+    <ClCompile Include="Container\Associative\unordered2.cpp" />
+    <ClCompile Include="Container\Associative\unordered3.cpp" />
     <ClCompile Include="Container\STLContainerFeature\container1.cpp" />
     <ClCompile Include="Container\STLContainerFeature\policy1.cpp" />
     <ClCompile Include="Container\STLContainerFeature\policy2.cpp" />
@@ -224,6 +233,7 @@
     <ClCompile Include="STLPreview\using_std_string.cpp" />
     <ClCompile Include="STLPreview\using_std_string2.cpp" />
     <ClCompile Include="STLPreview\using_std_string3.cpp" />
+    <ClCompile Include="Utility\SmartPointer\sptr1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Algorithm\STLAlgorithmFunction\ecourse_st1.h" />
