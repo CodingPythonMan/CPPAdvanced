@@ -235,6 +235,13 @@
     <ClCompile Include="STLPreview\using_std_string.cpp" />
     <ClCompile Include="STLPreview\using_std_string2.cpp" />
     <ClCompile Include="STLPreview\using_std_string3.cpp" />
+    <ClCompile Include="Utility\Chrono\clock1.cpp" />
+    <ClCompile Include="Utility\Chrono\duration1.cpp" />
+    <ClCompile Include="Utility\Chrono\duration2.cpp" />
+    <ClCompile Include="Utility\Chrono\ratio1.cpp" />
+    <ClCompile Include="Utility\Chrono\ratio2.cpp" />
+    <ClCompile Include="Utility\Chrono\time1.cpp" />
+    <ClCompile Include="Utility\Chrono\time2.cpp" />
     <ClCompile Include="Utility\SmartPointer1\sptr1.cpp" />
     <ClCompile Include="Utility\SmartPointer1\sptr2.cpp" />
     <ClCompile Include="Utility\SmartPointer1\sptr3.cpp" />
