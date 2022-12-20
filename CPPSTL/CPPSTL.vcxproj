@@ -233,7 +233,14 @@
     <ClCompile Include="STLPreview\using_std_string.cpp" />
     <ClCompile Include="STLPreview\using_std_string2.cpp" />
     <ClCompile Include="STLPreview\using_std_string3.cpp" />
-    <ClCompile Include="Utility\SmartPointer\sptr1.cpp" />
+    <ClCompile Include="Utility\SmartPointer1\sptr1.cpp" />
+    <ClCompile Include="Utility\SmartPointer1\sptr2.cpp" />
+    <ClCompile Include="Utility\SmartPointer1\sptr3.cpp" />
+    <ClCompile Include="Utility\SmartPointer1\sptr4.cpp" />
+    <ClCompile Include="Utility\SmartPointer1\sptr5.cpp" />
+    <ClCompile Include="Utility\SmartPointer1\sptr6.cpp" />
+    <ClCompile Include="Utility\SmartPointer1\sptr7.cpp" />
+    <ClCompile Include="Utility\SmartPointer1\sptr8.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Algorithm\STLAlgorithmFunction\ecourse_st1.h" />
@@ -243,6 +250,7 @@
     <ClInclude Include="Container\STLSequenceContainer2\MyAlloc2.h" />
     <ClInclude Include="Container\STLSequenceContainer2\Point.h" />
     <ClInclude Include="Iterator\IteratorAdapter\People.h" />
+    <ClInclude Include="Utility\SmartPointer1\car.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include <memory>
 
 class Car
@@ -19,4 +19,4 @@ int main()
 	(*p).Go();		// p.operator*()
 
 	// delete p;
-}
+}*/
