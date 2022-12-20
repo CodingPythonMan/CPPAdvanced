@@ -144,6 +144,9 @@
     <ClCompile Include="Algorithm\STLAlgorithm\algo1.cpp" />
     <ClCompile Include="Algorithm\STLAlgorithm\algo2.cpp" />
     <ClCompile Include="Algorithm\STLAlgorithm\algo3.cpp" />
+    <ClCompile Include="Concurrency\Async\async1.cpp" />
+    <ClCompile Include="Concurrency\Async\async2.cpp" />
+    <ClCompile Include="Concurrency\Async\async3.cpp" />
     <ClCompile Include="Concurrency\Thread\thread1.cpp" />
     <ClCompile Include="Concurrency\Thread\thread2.cpp" />
     <ClCompile Include="Concurrency\Thread\thread3.cpp" />
