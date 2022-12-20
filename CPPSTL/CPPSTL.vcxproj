@@ -144,6 +144,12 @@
     <ClCompile Include="Algorithm\STLAlgorithm\algo1.cpp" />
     <ClCompile Include="Algorithm\STLAlgorithm\algo2.cpp" />
     <ClCompile Include="Algorithm\STLAlgorithm\algo3.cpp" />
+    <ClCompile Include="Concurrency\Thread\thread1.cpp" />
+    <ClCompile Include="Concurrency\Thread\thread2.cpp" />
+    <ClCompile Include="Concurrency\Thread\thread3.cpp" />
+    <ClCompile Include="Concurrency\Thread\thread4.cpp" />
+    <ClCompile Include="Concurrency\Thread\thread5.cpp" />
+    <ClCompile Include="Concurrency\Thread\thread6.cpp" />
     <ClCompile Include="Container\Adapter\adapter.cpp" />
     <ClCompile Include="Container\Adapter\pq.cpp" />
     <ClCompile Include="Container\Adapter\stack.cpp" />
