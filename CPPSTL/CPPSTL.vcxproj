@@ -105,6 +105,7 @@
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
+      <AdditionalIncludeDirectories>C:\practice\CPPAdvanced\CPPSTL\Libs;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -120,6 +121,7 @@
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
+      <AdditionalIncludeDirectories>C:\practice\CPPAdvanced\CPPSTL\Libs;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -241,6 +243,15 @@
     <ClCompile Include="Utility\SmartPointer1\sptr6.cpp" />
     <ClCompile Include="Utility\SmartPointer1\sptr7.cpp" />
     <ClCompile Include="Utility\SmartPointer1\sptr8.cpp" />
+    <ClCompile Include="Utility\SmartPointer2\Factory.cpp" />
+    <ClCompile Include="Utility\SmartPointer2\uptr1.cpp" />
+    <ClCompile Include="Utility\SmartPointer2\uptr2.cpp" />
+    <ClCompile Include="Utility\SmartPointer2\uptr3.cpp" />
+    <ClCompile Include="Utility\SmartPointer2\uptr5.cpp" />
+    <ClCompile Include="Utility\SmartPointer2\wptr1.cpp" />
+    <ClCompile Include="Utility\SmartPointer2\wptr2.cpp" />
+    <ClCompile Include="Utility\SmartPointer2\wptr3.cpp" />
+    <ClCompile Include="Utility\SmartPointer2\wptr4.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Algorithm\STLAlgorithmFunction\ecourse_st1.h" />
