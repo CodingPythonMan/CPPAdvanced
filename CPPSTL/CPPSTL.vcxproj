@@ -142,7 +142,11 @@
     <ClCompile Include="Algorithm\STLAlgorithm\algo1.cpp" />
     <ClCompile Include="Algorithm\STLAlgorithm\algo2.cpp" />
     <ClCompile Include="Algorithm\STLAlgorithm\algo3.cpp" />
+    <ClCompile Include="Container\Adapter\adapter.cpp" />
+    <ClCompile Include="Container\Adapter\pq.cpp" />
     <ClCompile Include="Container\Adapter\stack.cpp" />
+    <ClCompile Include="Container\Associative\set1.cpp" />
+    <ClCompile Include="Container\Associative\set2.cpp" />
     <ClCompile Include="Container\STLContainerFeature\container1.cpp" />
     <ClCompile Include="Container\STLContainerFeature\policy1.cpp" />
     <ClCompile Include="Container\STLContainerFeature\policy2.cpp" />
