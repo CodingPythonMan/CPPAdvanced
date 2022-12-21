@@ -167,7 +167,12 @@
     <ClCompile Include="Section02\Vector1\vector2.cpp" />
     <ClCompile Include="Section02\Vector1\vector3.cpp" />
     <ClCompile Include="Section02\Vector1\vector4.cpp" />
+    <ClCompile Include="Section02\Vector2\rebind1.cpp" />
+    <ClCompile Include="Section02\Vector2\rebind2.cpp" />
     <ClCompile Include="Section02\Vector2\vector5.cpp" />
+    <ClCompile Include="Section02\Vector2\vector6.cpp" />
+    <ClCompile Include="Section02\Vector2\vector7.cpp" />
+    <ClCompile Include="Section02\Vector2\vector8.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Libs\Point.h" />

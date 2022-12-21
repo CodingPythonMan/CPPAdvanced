@@ -1,8 +1,7 @@
 /*#include <iostream>
 #include "Point.h"
 
-template<typename T, typename Alloc = std::allocator<T> > 
-class Vector
+template<typename T, typename Alloc = std::allocator<T> > class Vector
 {
 	T* buff;
 	std::size_t size;
@@ -46,44 +45,31 @@ public:
 template<typename Alloc >
 class Vector<bool, Alloc>
 {
-	T* buff;
+	int* buff;
 	std::size_t size;
 	std::size_t capacity;
 
-	Alloc ax;
+	//	Alloc ax; // std::allocator<bool>
+	//	typename std::allocator_traits<Alloc>::template rebind_alloc<int> ax;
+
+	using Alloc2 = typename std::allocator_traits<Alloc>::template rebind_alloc<int>;
+
+	Alloc2 ax; // std::allocator<int>
+
 public:
-	Vector(std::size_t sz, const T& value = T()) : size(sz), capacity(sz)
+	Vector(std::size_t sz, const bool value = false) : size(sz), capacity(sz)
 	{
-		//	buff = std::allocator_traits<Alloc>::allocate(ax, sizeof(T) * sz);
+		// 100bit => 100 / sizeof(int) + 1
+		buff = std::allocator_traits<Alloc2>::allocate(ax, sz / sizeof(int) + 1);
 
-			// sz bit 만큼 할당.. new int[sz/sizeof(int)]
-			// ax => std::allocator<bool> ===> std::allocator<int> 로 변경이 필요 하다.
+		// buff 의 모든 비트를 value 로 초기화.. - 생략..
 
-		int i = 0;
-		try
-		{
-			for (i = 0; i < sz; i++)
-				std::allocator_traits<Alloc>::construct(ax, &buff[i], value);
-		}
-		catch (...)
-		{
-			for (int j = i - 1; j >= 0; --j)
-				std::allocator_traits<Alloc>::destroy(ax, &buff[i]);
 
-			std::allocator_traits<Alloc>::deallocate(ax, buff, capacity);
-			size = 0;
-			capacity = 0;
-
-			throw;
-		}
 	}
 
 	~Vector()
 	{
-		for (int j = size - 1; j >= 0; --j)
-			std::allocator_traits<Alloc>::destroy(ax, &buff[j]);
-
-		std::allocator_traits<Alloc>::deallocate(ax, buff, capacity);
+		std::allocator_traits<Alloc2>::deallocate(ax, buff, capacity);
 	}
 };
 
