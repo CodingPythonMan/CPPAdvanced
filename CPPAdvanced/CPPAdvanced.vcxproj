@@ -105,6 +105,7 @@
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
+      <AdditionalIncludeDirectories>C:\practice\CPPAdvanced\CPPAdvanced\Libs;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -120,6 +121,7 @@
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
+      <AdditionalIncludeDirectories>C:\practice\CPPAdvanced\CPPAdvanced\Libs;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -129,7 +131,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Section01\EBCO\compressed_pair1.cpp" />
+    <ClCompile Include="Section01\EBCO\compressed_pair2.cpp" />
+    <ClCompile Include="Section01\EBCO\compressed_pair3.cpp" />
+    <ClCompile Include="Section01\EBCO\compressed_pair4.cpp" />
+    <ClCompile Include="Section01\EBCO\compressed_pair5.cpp" />
+    <ClCompile Include="Section01\EBCO\compressed_pair6.cpp" />
     <ClCompile Include="Section01\EBCO\ebco1.cpp" />
+    <ClCompile Include="Section01\EBCO\ebco2.cpp" />
+    <ClCompile Include="Section01\EBCO\no_unique_address1.cpp" />
+    <ClCompile Include="Section01\EBCO\no_unique_address2.cpp" />
+    <ClCompile Include="Section01\EBCO\no_unique_address3.cpp" />
     <ClCompile Include="Section01\Empty\empty1.cpp" />
     <ClCompile Include="Section01\Empty\empty2.cpp" />
     <ClCompile Include="Section01\Empty\empty3.cpp" />
