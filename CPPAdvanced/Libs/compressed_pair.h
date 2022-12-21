@@ -29,9 +29,7 @@ template<typename T1, typename T2> struct compressed_pair<T1, T2, false>
         : first(), second( std::forward<A2>(arg2)... ) {}
 };
 
-
-
-// T1 ì´ empty ì¸ê²½ìš°.
+// T1 ÀÌ empty ÀÎ°æ¿ì.
 template<typename T1, typename T2> struct compressed_pair<T1, T2, true> : public T1
 {
 	T2 second;

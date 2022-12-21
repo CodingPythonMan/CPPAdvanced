@@ -148,6 +148,15 @@
     <ClCompile Include="Section01\Empty\tag_dispatch1.cpp" />
     <ClCompile Include="Section01\Empty\tag_dispatch2.cpp" />
     <ClCompile Include="Section01\Empty\tag_dispatch3.cpp" />
+    <ClCompile Include="Section01\MakeUniquePtr1\make_unique_ptr0.cpp" />
+    <ClCompile Include="Section01\MakeUniquePtr1\make_unique_ptr1.cpp" />
+    <ClCompile Include="Section01\MakeUniquePtr1\make_unique_ptr2.cpp" />
+    <ClCompile Include="Section01\MakeUniquePtr1\make_unique_ptr3.cpp" />
+    <ClCompile Include="Section01\MakeUniquePtr1\make_unique_ptr4.cpp" />
+    <ClCompile Include="Section01\MakeUniquePtr1\make_unique_ptr5.cpp" />
+    <ClCompile Include="Section01\MakeUniquePtr1\make_unique_ptr6.cpp" />
+    <ClCompile Include="Section01\MakeUniquePtr1\make_unique_ptr7.cpp" />
+    <ClCompile Include="Section01\MakeUniquePtr2\make_unique_ptr7-1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
