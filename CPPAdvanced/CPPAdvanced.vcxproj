@@ -160,6 +160,17 @@
     <ClCompile Include="Section01\MakeUniquePtr2\make_unique_ptr8.cpp" />
     <ClCompile Include="Section01\MakeUniquePtr2\make_unique_ptr9-1.cpp" />
     <ClCompile Include="Section01\MakeUniquePtr2\make_unique_ptr9.cpp" />
+    <ClCompile Include="Section02\Vector1\allocater1.cpp" />
+    <ClCompile Include="Section02\Vector1\allocater2.cpp" />
+    <ClCompile Include="Section02\Vector1\allocater3.cpp" />
+    <ClCompile Include="Section02\Vector1\vector1.cpp" />
+    <ClCompile Include="Section02\Vector1\vector2.cpp" />
+    <ClCompile Include="Section02\Vector1\vector3.cpp" />
+    <ClCompile Include="Section02\Vector1\vector4.cpp" />
+    <ClCompile Include="Section02\Vector2\vector5.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Libs\Point.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
