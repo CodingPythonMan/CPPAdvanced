@@ -8,8 +8,8 @@ struct adopt_lock_t
 
 constexpr adopt_lock_t adopt_lock;
 
-
-template <class Mutex> class lock_guard 
+template <class Mutex> 
+class lock_guard 
 { 
 public:
     using mutex_type = Mutex;

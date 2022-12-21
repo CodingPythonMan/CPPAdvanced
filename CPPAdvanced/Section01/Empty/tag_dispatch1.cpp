@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include <mutex>
 
 template <class Mutex> class lock_guard 
@@ -26,6 +26,4 @@ int main()
     m.lock();
 
     lock_guard g2(m, false );
-}
-
-
+}*/
