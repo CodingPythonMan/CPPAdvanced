@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include <algorithm>
 #include "default_delete.h"
 #include "compressed_pair.h"
@@ -89,4 +89,4 @@ int main()
 
 	unique_ptr<Dog>    up3(new Dog);		// default_delete<Dog>
 	unique_ptr<Animal> up4 = std::move(up3);// default_delete<Animal>
-}
+}*/

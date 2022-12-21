@@ -157,6 +157,9 @@
     <ClCompile Include="Section01\MakeUniquePtr1\make_unique_ptr6.cpp" />
     <ClCompile Include="Section01\MakeUniquePtr1\make_unique_ptr7.cpp" />
     <ClCompile Include="Section01\MakeUniquePtr2\make_unique_ptr7-1.cpp" />
+    <ClCompile Include="Section01\MakeUniquePtr2\make_unique_ptr8.cpp" />
+    <ClCompile Include="Section01\MakeUniquePtr2\make_unique_ptr9-1.cpp" />
+    <ClCompile Include="Section01\MakeUniquePtr2\make_unique_ptr9.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
