@@ -190,6 +190,14 @@
     <ClCompile Include="Section03\ReferenceCounting\refcount7.cpp" />
     <ClCompile Include="Section03\ReferenceCounting\refcount8.cpp" />
     <ClCompile Include="Section03\ReferenceCounting\refcount9.cpp" />
+    <ClCompile Include="Section04\base_from_member1.cpp" />
+    <ClCompile Include="Section04\base_from_member2.cpp" />
+    <ClCompile Include="Section04\base_from_member3.cpp" />
+    <ClCompile Include="Section04\coercion1.cpp" />
+    <ClCompile Include="Section04\coercion2.cpp" />
+    <ClCompile Include="Section04\coercion3.cpp" />
+    <ClCompile Include="Section04\transparent1.cpp" />
+    <ClCompile Include="Section04\transparent2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Libs\Point.h" />
