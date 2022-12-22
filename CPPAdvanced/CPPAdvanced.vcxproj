@@ -213,6 +213,7 @@
     <ClCompile Include="Section05\Range2\nested5.cpp" />
     <ClCompile Include="Section05\Range2\view_Interface1.cpp" />
     <ClCompile Include="Section05\Range2\view_Interface2.cpp" />
+    <ClCompile Include="Section05\Range2\view_interface3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Libs\Point.h" />
