@@ -1,4 +1,4 @@
-#include <type_traits>
+/*#include <type_traits>
 
 class Animal {};
 class Dog : public Animal {};
@@ -24,4 +24,4 @@ int main()
 
 	smartptr<int> sp3(new int);
 	smartptr<double> sp4 = sp3;
-}
+}*/

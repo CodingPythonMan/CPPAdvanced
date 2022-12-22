@@ -196,8 +196,16 @@
     <ClCompile Include="Section04\coercion1.cpp" />
     <ClCompile Include="Section04\coercion2.cpp" />
     <ClCompile Include="Section04\coercion3.cpp" />
+    <ClCompile Include="Section04\coercion4.cpp" />
     <ClCompile Include="Section04\transparent1.cpp" />
     <ClCompile Include="Section04\transparent2.cpp" />
+    <ClCompile Include="Section05\Range1\ranges_ex01.cpp" />
+    <ClCompile Include="Section05\Range1\ranges_ex02.cpp" />
+    <ClCompile Include="Section05\Range1\ranges_ex03.cpp" />
+    <ClCompile Include="Section05\Range1\ref_view01.cpp" />
+    <ClCompile Include="Section05\Range1\ref_view03.cpp" />
+    <ClCompile Include="Section05\Range1\ref_view04.cpp" />
+    <ClCompile Include="Section05\Range1\ref_view05.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Libs\Point.h" />
