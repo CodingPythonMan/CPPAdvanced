@@ -173,6 +173,15 @@
     <ClCompile Include="Section02\Vector2\vector6.cpp" />
     <ClCompile Include="Section02\Vector2\vector7.cpp" />
     <ClCompile Include="Section02\Vector2\vector8.cpp" />
+    <ClCompile Include="Section03\ReferenceCounting\refcount0.cpp" />
+    <ClCompile Include="Section03\ReferenceCounting\refcount1.cpp" />
+    <ClCompile Include="Section03\ReferenceCounting\refcount2.cpp" />
+    <ClCompile Include="Section03\ReferenceCounting\refcount3.cpp" />
+    <ClCompile Include="Section03\ReferenceCounting\refcount4.cpp" />
+    <ClCompile Include="Section03\ReferenceCounting\refcount5.cpp" />
+    <ClCompile Include="Section03\ReferenceCounting\refcount6.cpp" />
+    <ClCompile Include="Section03\ReferenceCounting\refcount7.cpp" />
+    <ClCompile Include="Section03\ReferenceCounting\refcount8.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Libs\Point.h" />
