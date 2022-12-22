@@ -206,6 +206,13 @@
     <ClCompile Include="Section05\Range1\ref_view03.cpp" />
     <ClCompile Include="Section05\Range1\ref_view04.cpp" />
     <ClCompile Include="Section05\Range1\ref_view05.cpp" />
+    <ClCompile Include="Section05\Range2\nested1.cpp" />
+    <ClCompile Include="Section05\Range2\nested2.cpp" />
+    <ClCompile Include="Section05\Range2\nested3.cpp" />
+    <ClCompile Include="Section05\Range2\nested4.cpp" />
+    <ClCompile Include="Section05\Range2\nested5.cpp" />
+    <ClCompile Include="Section05\Range2\view_Interface1.cpp" />
+    <ClCompile Include="Section05\Range2\view_Interface2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Libs\Point.h" />
